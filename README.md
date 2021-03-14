@@ -4,9 +4,7 @@ Operating System 2021-1
 It's Michael Felix OS211 GithubPage
 
 - [GithubPage](https://github.com/mfelixharyono/os211)
-
-- [MyLog](https://mfelixharyono.github.io/os211/TXT/mylog.txt)
-
+- [MyLog](https://mfelixharyono.github.io/os211/TXT/mylog.txt)<br>
 - [MyRank](https://mfelixharyono.github.io/os211/TXT/myrank.txt)
 
 #Week Assignment

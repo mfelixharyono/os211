@@ -2,3 +2,6 @@
 ZCZC W01 monta1212
 ZCZC W01 nabiladitaputri
 ZCZC W01 mirasalsa
+ZCZC W02 mirasalsa
+ZCZC W02 monta1212
+ZCZC W02 muzhaffaris

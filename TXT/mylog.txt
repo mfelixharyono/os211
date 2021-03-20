@@ -18,3 +18,9 @@ ZCZC W02 120 L12 Top 10 web from week2
 ZCZC W02 60 L12 Read OSC10 chap 16 and 17
 ZCZC W02 15 myrank top 3
 ZCZC W02 20 L12 make operatingsystems@vlsm.org key ultimate
+ZCZC W03 100 L02 Zoom related
+ZCZC W03 100 L13 Reading chap 13,14,15(file system)
+ZCZC W03 20 L13 myrank top 3
+ZCZC W03 40 L13 C Language
+ZCZC W03 60 L13 Tarball and fuse (trying understand)
+ZCZC W03 100 L13 make w03.md

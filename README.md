@@ -9,6 +9,6 @@ It's Michael Felix OS211 GithubPage
 
 #Week Assignment
 
-1. [W01](https://mfelixharyono.github.io/os211/W01/)<br>
-2. [W02](https://mfelixharyono.github.io/os211/W02/)<br>
-3. [W03](https://mfelixharyono.github.io/os211/W03/)
+##1. [W01](https://mfelixharyono.github.io/os211/W01/)<br>
+##2. [W02](https://mfelixharyono.github.io/os211/W02/)<br>
+##3. [W03](https://mfelixharyono.github.io/os211/W03/)<br>

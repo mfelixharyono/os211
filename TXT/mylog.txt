@@ -23,4 +23,5 @@ ZCZC W03 100 L13 Reading chap 13,14,15(file system)
 ZCZC W03 20 L13 myrank top 3
 ZCZC W03 40 L13 C Language
 ZCZC W03 60 L13 Tarball and fuse (trying understand)
-ZCZC W03 100 L13 make w03.md
+ZCZC W03 100 L13 make w03
+ZCZC W03 20 L05 GSGS myscript.sh

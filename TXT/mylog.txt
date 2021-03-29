@@ -25,3 +25,9 @@ ZCZC W03 40 L13 C Language
 ZCZC W03 60 L13 Tarball and fuse (trying understand)
 ZCZC W03 100 L13 make w03
 ZCZC W03 20 L05 GSGS myscript.sh
+ZCZC W04 100 L06 learn about C pointer and memory
+ZCZC W04 120 L14 Make top 10 web
+ZCZC W04 30 L14 top3 myrank
+ZCZC W04 30 L14 trying demo in week4
+ZCZC W04 100 L02 zoom related
+ZCZC W04 30 L14 doing Week4 assignment

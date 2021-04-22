@@ -14,4 +14,4 @@ It's Michael Felix OS211 GithubPage
 ## 3. [W03](https://mfelixharyono.github.io/os211/W03/)
 ## 4. [W04](https://mfelixharyono.github.io/os211/W04/)
 ## 5. [W05](https://mfelixharyono.github.io/os211/W05/)
-
+## 6. [W06](https://mfelixharyono.github.io/os211/W06/)

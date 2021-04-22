@@ -36,3 +36,8 @@ ZCZC W05 120 L15 Make top 10 list
 ZCZC W05 20 L15 top3 rank
 ZCZC W05 90 L05 TOP related
 ZCZC W05 60 L15 Doing w05 demo and homework
+ZCZC W06 100 L02 zoom related
+ZCZC W06 100 L07 doing demo fork()
+ZCZC W06 90 L16 top 10 web
+ZCZC W06 40 L16 trying to understand fork
+ZCZC W06 20 L16 top 3 myrank

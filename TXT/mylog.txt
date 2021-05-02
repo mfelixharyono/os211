@@ -41,3 +41,9 @@ ZCZC W06 100 L07 doing demo fork()
 ZCZC W06 90 L16 top 10 web
 ZCZC W06 40 L16 trying to understand fork
 ZCZC W06 20 L16 top 3 myrank
+ZCZC W07 100 L02 zoom related
+ZCZC W07 100 L17 top 10 web
+ZCZC W07 60 L06 trying to learn semaphore
+ZCZC W07 30 L02 peterson algorithm
+ZCZC W07 30 L17 Do week07 assignment
+ZCZC W07 20 L17 top 3 myrank

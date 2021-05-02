@@ -13,4 +13,7 @@ ZCZC W04 muzhaffaris
 ZCZC W04 mirsalsa
 ZCZC W05 mirsalsa
 ZCZC W05 monta1212
-ZCZC W05 nadifahsn 
+ZCZC W05 nadifahsn
+ZCZC W06 mirsalsa
+ZCZC W06 mzahranagung
+ZCZC W06 muhammadravish 

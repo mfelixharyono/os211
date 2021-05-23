@@ -52,3 +52,6 @@ ZCZC W08 120 L18 make top 10 web
 ZCZC W08 100 L02 zoom related
 ZCZC W08 30 L18 top 3 myrank
 ZCZC W08 10 do week08 assigment (git)
+ZCZC W09 L19 240 Doing and Readin LFS
+ZCZC W09 L19 100 make top10 web
+ZCZC W09 L02 100 ZOOM related
